@@ -1,0 +1,102 @@
+[
+    {
+        "term": "Page View",
+        "keys": [
+            "page_view",
+            "pageView",
+            "page-view"
+        ],
+        "short": "When a user loads a page on your website.",
+        "long": "A page view is counted each time a user loads or reloads a page on your website. It helps track how often specific pages are accessed, regardless of whether it's the same user or a different one."
+    },
+    {
+        "term": "Session",
+        "keys": [
+            "session",
+            "session",
+            "session"
+        ],
+        "short": "A visit to your site that can include multiple actions.",
+        "long": "A session is a group of user interactions with your website within a given time frame, typically 30 minutes of inactivity. It can include multiple page views, events, and conversions."
+    },
+    {
+        "term": "User",
+        "keys": [
+            "user",
+            "user",
+            "user"
+        ],
+        "short": "A unique visitor to your site.",
+        "long": "A user refers to a unique individual who visits your website, typically identified by a device or browser using cookies. Multiple sessions from the same person count as one user."
+    },
+    {
+        "term": "Bounce Rate",
+        "keys": [
+            "bounce_rate",
+            "bounceRate",
+            "bounce-rate"
+        ],
+        "short": "The percentage of sessions with no further interaction.",
+        "long": "Bounce rate is the percentage of single-page sessions where the user left the site without interacting further. A high bounce rate can indicate low engagement or irrelevant content."
+    },
+    {
+        "term": "Conversion",
+        "keys": [
+            "conversion",
+            "conversion",
+            "conversion"
+        ],
+        "short": "When a user completes a desired goal.",
+        "long": "A conversion occurs when a user completes a predefined goal, such as signing up, making a purchase, or submitting a form. It's used to measure the effectiveness of a website or campaign."
+    },
+    {
+        "term": "Event",
+        "keys": [
+            "event",
+            "event",
+            "event"
+        ],
+        "short": "An action a user takes on your site.",
+        "long": "An event is any interaction or behavior a user performs on a site, like clicking a button, playing a video, or downloading a file. Events help measure engagement beyond simple page views."
+    },
+    {
+        "term": "Traffic Source",
+        "keys": [
+            "traffic_source",
+            "trafficSource",
+            "traffic-source"
+        ],
+        "short": "Where your visitors are coming from.",
+        "long": "Traffic source identifies the origin of your visitors, such as search engines, social media, direct visits, or referral websites. It helps track how people are finding your site."
+    },
+    {
+        "term": "Exit Rate",
+        "keys": [
+            "exit_rate",
+            "exitRate",
+            "exit-rate"
+        ],
+        "short": "Percentage of users who leave from a specific page.",
+        "long": "Exit rate measures how often users leave your site from a particular page, helping identify which pages cause users to drop off most frequently."
+    },
+    {
+        "term": "Click-Through Rate (CTR)",
+        "keys": [
+            "click_through_rate",
+            "clickThroughRate",
+            "click-through-rate"
+        ],
+        "short": "Percentage of users who clicked on a link or ad.",
+        "long": "CTR is calculated by dividing the number of clicks by the number of impressions, indicating how effective your links or ads are at generating interest."
+    },
+    {
+        "term": "Impression",
+        "keys": [
+            "impression",
+            "impression",
+            "impression"
+        ],
+        "short": "When content is shown to a user.",
+        "long": "An impression occurs each time your content, like an ad or listing, is displayed on a screen. It does not require the user to click or interact."
+    }
+]
