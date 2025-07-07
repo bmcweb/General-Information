@@ -1,0 +1,102 @@
+[
+    {
+        "term": "A",
+        "keys": [
+            "a",
+            "a",
+            "a"
+        ],
+        "short": "Maps a domain to an IPv4 address.",
+        "long": "An A record connects a domain or subdomain to an IPv4 address (e.g., 192.0.2.1), allowing browsers to locate servers hosting a website."
+    },
+    {
+        "term": "AAAA",
+        "keys": [
+            "aaaa",
+            "aaaa",
+            "aaaa"
+        ],
+        "short": "Maps a domain to an IPv6 address.",
+        "long": "An AAAA record maps the domain to an IPv6 address (e.g., 2001:db8::1), used for modern internet protocol support."
+    },
+    {
+        "term": "CNAME",
+        "keys": [
+            "cname",
+            "cname",
+            "cname"
+        ],
+        "short": "Points a domain to another domain (alias).",
+        "long": "A CNAME (Canonical Name) record maps one domain to another, allowing multiple domain names to refer to the same website or service."
+    },
+    {
+        "term": "MX",
+        "keys": [
+            "mx",
+            "mx",
+            "mx"
+        ],
+        "short": "Directs email to mail servers.",
+        "long": "An MX (Mail Exchange) record defines the mail server responsible for receiving email on behalf of a domain. It includes priority values to indicate server order."
+    },
+    {
+        "term": "TXT",
+        "keys": [
+            "txt",
+            "txt",
+            "txt"
+        ],
+        "short": "Stores text info like SPF or verification data.",
+        "long": "TXT records store arbitrary text, often for SPF, DKIM, or domain verification used by services like Google or Mailgun."
+    },
+    {
+        "term": "NS",
+        "keys": [
+            "ns",
+            "ns",
+            "ns"
+        ],
+        "short": "Specifies the authoritative name servers.",
+        "long": "NS records tell the internet which name servers are authoritative for a domain, directing where DNS queries should be answered."
+    },
+    {
+        "term": "PTR",
+        "keys": [
+            "ptr",
+            "ptr",
+            "ptr"
+        ],
+        "short": "Used for reverse DNS lookups.",
+        "long": "PTR records map an IP address to a domain name, enabling reverse DNS lookups, often for verifying mail server identity."
+    },
+    {
+        "term": "SRV",
+        "keys": [
+            "srv",
+            "srv",
+            "srv"
+        ],
+        "short": "Specifies service locations.",
+        "long": "SRV records define the hostname and port for specific services, commonly used in VoIP, XMPP, and Microsoft services."
+    },
+    {
+        "term": "CAA",
+        "keys": [
+            "caa",
+            "caa",
+            "caa"
+        ],
+        "short": "Restricts which CAs can issue SSL certs.",
+        "long": "CAA records let domain owners specify which Certificate Authorities are allowed to issue SSL/TLS certificates for their domain."
+    },
+    {
+        "term": "ALIAS",
+        "keys": [
+            "alias",
+            "alias",
+            "alias"
+        ],
+        "short": "Works like CNAME but for root domains.",
+        "long": "ALIAS records are like CNAMEs but usable at the root domain level. They resolve to an IP like A records and support dynamic targets like CDNs."
+    }
+]
