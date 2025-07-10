@@ -1,0 +1,67 @@
+[
+    {
+        "id": "godaddy",
+        "title": "GoDaddy",
+        "website": "https://godaddy.com/"
+    },
+    {
+        "id": "namecheap",
+        "title": "Namecheap",
+        "website": "https://www.namecheap.com/"
+    },
+    {
+        "id": "googledomains",
+        "title": "Google Domains",
+        "website": "https://domains.google/"
+    },
+    {
+        "id": "cloudflare",
+        "title": "Cloudflare",
+        "website": "https://www.cloudflare.com/"
+    },
+    {
+        "id": "crazydomains",
+        "title": "Crazy Domains NZ",
+        "website": "https://www.crazydomains.co.nz/"
+    },
+    {
+        "id": "hover",
+        "title": "Hover",
+        "website": "https://www.hover.com/"
+    },
+    {
+        "id": "porkbun",
+        "title": "Porkbun",
+        "website": "https://porkbun.com/"
+    },
+    {
+        "id": "dynadot",
+        "title": "Dynadot",
+        "website": "https://www.dynadot.com/"
+    },
+    {
+        "id": "gandi",
+        "title": "Gandi.net",
+        "website": "https://www.gandi.net/"
+    },
+    {
+        "id": "ionos",
+        "title": "IONOS",
+        "website": "https://www.ionos.com/"
+    },
+    {
+        "id": "namecom",
+        "title": "Name.com",
+        "website": "https://www.name.com/"
+    },
+    {
+        "id": "bluehost",
+        "title": "Bluehost",
+        "website": "https://www.bluehost.com/"
+    },
+    {
+        "id": "dreamhost",
+        "title": "DreamHost",
+        "website": "https://www.dreamhost.com/"
+    }
+]
