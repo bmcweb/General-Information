@@ -1,0 +1,250 @@
+[
+    {
+        "city": "Auckland",
+        "altName": "Tamaki Makaurau",
+        "country": "NZ",
+        "times": [
+            { "startName": "Manukau", "startCoordinates": [-36.9937, 174.8850], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
+            { "startName": "Papakura", "startCoordinates": [-37.0659, 174.9436], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
+            { "startName": "Albany", "startCoordinates": [-36.7261, 174.7076], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
+            { "startName": "Westgate", "startCoordinates": [-36.8189, 174.6298], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
+            { "startName": "Henderson", "startCoordinates": [-36.8729, 174.6270], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
+            { "startName": "Silverdale", "startCoordinates": [-36.6100, 174.6860], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
+            { "startName": "Hobsonville", "startCoordinates": [-36.7938, 174.6552], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
+            { "startName": "Pakuranga Road", "startCoordinates": [-36.8992, 174.8792], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
+            { "startName": "Manukau", "startCoordinates": [-36.9937, 174.8850], "endName": "Airport", "endCoordinates": [-37.0082, 174.7850] },
+            { "startName": "Albany", "startCoordinates": [-36.7261, 174.7076], "endName": "Airport", "endCoordinates": [-37.0082, 174.7850] },
+            { "startName": "Nelson Street", "startCoordinates": [-36.8475, 174.7591], "endName": "Airport", "endCoordinates": [-37.0082, 174.7850] }
+        ],
+        "highways": [
+            {
+                "title": "Northern Motorway",
+                "highway": 1,
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "South",
+                    "arvoDir": "North"
+                }
+            },
+            {
+                "title": "Southern Motorway",
+                "highway": 1,
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "North",
+                    "arvoDir": "South"
+                }
+            },
+            {
+                "title": "Northwestern Motorway",
+                "highway": 16,
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "East",
+                    "arvoDir": "West"
+                }
+            },
+            {
+                "title": "Southwestern Motorway",
+                "highway": 20,
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "North",
+                    "arvoDir": "South"
+                }
+            },
+            {
+                "title": "Upper Harbour Motorway",
+                "highway": 18,
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "East",
+                    "arvoDir": "West"
+                }
+            }
+        ]
+    },
+    {
+        "city": "Wellington",
+        "altName": "Te Whanganui-a-Tara",
+        "country": "NZ",
+        "times": [
+            { "startName": "Johnsonville", "startCoordinates": [-41.2382, 174.8056], "endName": "CBD", "endCoordinates": [-41.2865, 174.7762] },
+            { "startName": "Porirua", "startCoordinates": [-41.1350, 174.8390], "endName": "CBD", "endCoordinates": [-41.2865, 174.7762] },
+            { "startName": "Lower Hutt", "startCoordinates": [-41.2167, 174.9050], "endName": "CBD", "endCoordinates": [-41.2865, 174.7762] },
+            { "startName": "Upper Hutt", "startCoordinates": [-41.1256, 175.0672], "endName": "CBD", "endCoordinates": [-41.2865, 174.7762] },
+            { "startName": "Airport", "startCoordinates": [-41.3272, 174.8052], "endName": "CBD", "endCoordinates": [-41.2865, 174.7762] }
+        ],
+        "highways": [
+            {
+                "title": "State Highway 1",
+                "highway": 1,
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "South",
+                    "arvoDir": "North"
+                }
+            },
+            {
+                "title": "State Highway 2",
+                "highway": 2,
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "South",
+                    "arvoDir": "North"
+                }
+            }
+        ]
+    },
+    {
+        "city": "Sydney",
+        "altName": "Warrane",
+        "country": "AU",
+        "times": [
+            { "startName": "Parramatta", "startCoordinates": [-33.8150, 151.0031], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Bondi Junction", "startCoordinates": [-33.8926, 151.2497], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Chatswood", "startCoordinates": [-33.7969, 151.1825], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Airport", "startCoordinates": [-33.9399, 151.1753], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Liverpool", "startCoordinates": [-33.9206, 150.9247], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Blacktown", "startCoordinates": [-33.7667, 150.9167], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Penrith", "startCoordinates": [-33.7500, 150.6833], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Hornsby", "startCoordinates": [-33.7024, 151.0993], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Sutherland", "startCoordinates": [-34.0292, 151.0589], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] },
+            { "startName": "Manly", "startCoordinates": [-33.7980, 151.2861], "endName": "CBD", "endCoordinates": [-33.8688, 151.2093] }
+        ],
+        "highways": [
+            {
+                "title": "M4 Western Motorway",
+                "highway": "M4",
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "East",
+                    "arvoDir": "West"
+                }
+            },
+            {
+                "title": "M5 Motorway",
+                "highway": "M5",
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "East",
+                    "arvoDir": "West"
+                }
+            },
+            {
+                "title": "Pacific Highway",
+                "highway": "A1",
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "South",
+                    "arvoDir": "North"
+                }
+            }
+        ]
+    },
+    {
+        "city": "Christchurch",
+        "altName": "Ōtautahi",
+        "country": "NZ",
+        "times": [
+            { "startName": "Riccarton", "startCoordinates": [-43.5316, 172.6016], "endName": "CBD", "endCoordinates": [-43.5310, 172.6365] },
+            { "startName": "Hornby", "startCoordinates": [-43.5442, 172.5277], "endName": "CBD", "endCoordinates": [-43.5310, 172.6365] },
+            { "startName": "Papanui", "startCoordinates": [-43.4976, 172.6132], "endName": "CBD", "endCoordinates": [-43.5310, 172.6365] },
+            { "startName": "Ferrymead", "startCoordinates": [-43.5572, 172.7016], "endName": "CBD", "endCoordinates": [-43.5310, 172.6365] },
+            { "startName": "Sumner", "startCoordinates": [-43.5797, 172.7632], "endName": "CBD", "endCoordinates": [-43.5310, 172.6365] },
+            { "startName": "Bishopdale", "startCoordinates": [-43.4892, 172.5832], "endName": "CBD", "endCoordinates": [-43.5310, 172.6365] },
+            { "startName": "Linwood", "startCoordinates": [-43.5342, 172.6702], "endName": "CBD", "endCoordinates": [-43.5310, 172.6365] }
+        ],
+        "highways": [
+            {
+                "title": "State Highway 1",
+                "highway": 1,
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "South",
+                    "arvoDir": "North"
+                }
+            },
+            {
+                "title": "State Highway 73",
+                "highway": 73,
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "East",
+                    "arvoDir": "West"
+                }
+            },
+            {
+                "title": "State Highway 76",
+                "highway": 76,
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "East",
+                    "arvoDir": "West"
+                }
+            }
+        ]
+    },
+    {
+        "city": "Melbourne",
+        "altName": "Naarm",
+        "country": "AU",
+        "times": [
+            { "startName": "Dandenong", "startCoordinates": [-37.9876, 145.2150], "endName": "CBD", "endCoordinates": [-37.8136, 144.9631] },
+            { "startName": "Frankston", "startCoordinates": [-38.1421, 145.1231], "endName": "CBD", "endCoordinates": [-37.8136, 144.9631] },
+            { "startName": "Sunbury", "startCoordinates": [-37.5800, 144.7250], "endName": "CBD", "endCoordinates": [-37.8136, 144.9631] },
+            { "startName": "Werribee", "startCoordinates": [-37.8995, 144.6618], "endName": "CBD", "endCoordinates": [-37.8136, 144.9631] },
+            { "startName": "Box Hill", "startCoordinates": [-37.8200, 145.1250], "endName": "CBD", "endCoordinates": [-37.8136, 144.9631] },
+            { "startName": "Glen Waverley", "startCoordinates": [-37.8770, 145.1640], "endName": "CBD", "endCoordinates": [-37.8136, 144.9631] },
+            { "startName": "Airport", "startCoordinates": [-37.6690, 144.8410], "endName": "CBD", "endCoordinates": [-37.8136, 144.9631] },
+            { "startName": "Reservoir", "startCoordinates": [-37.7167, 145.0167], "endName": "CBD", "endCoordinates": [-37.8136, 144.9631] }
+        ],
+        "highways": [
+            {
+                "title": "Monash Freeway",
+                "highway": "M1",
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "West",
+                    "arvoDir": "East"
+                }
+            },
+            {
+                "title": "Eastern Freeway",
+                "highway": "M3",
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "West",
+                    "arvoDir": "East"
+                }
+            },
+            {
+                "title": "West Gate Freeway",
+                "highway": "M1",
+                "directions": ["East", "West"],
+                "settings": {
+                    "mornDir": "East",
+                    "arvoDir": "West"
+                }
+            },
+            {
+                "title": "Tullamarine Freeway",
+                "highway": "M2",
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "South",
+                    "arvoDir": "North"
+                }
+            },
+            {
+                "title": "Calder Freeway",
+                "highway": "M79",
+                "directions": ["North", "South"],
+                "settings": {
+                    "mornDir": "South",
+                    "arvoDir": "North"
+                }
+            }
+        ]
+    }
+]
