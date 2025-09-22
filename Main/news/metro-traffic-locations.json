@@ -3,6 +3,9 @@
         "city": "Auckland",
         "altName": "Tamaki Makaurau",
         "country": "NZ",
+        "settings": {
+            "regionCodes": [7]
+        },
         "times": [
             { "startName": "Manukau", "startCoordinates": [-36.9937, 174.8850], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
             { "startName": "Papakura", "startCoordinates": [-37.0659, 174.9436], "endName": "Nelson Street", "endCoordinates": [-36.8475, 174.7591] },
